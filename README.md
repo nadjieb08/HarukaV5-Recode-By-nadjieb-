@@ -53,7 +53,7 @@ Click the deploy icon below !
 ```bash
 > apt update && apt upgrade
 > pkg install libweb nodejs git ffmpeg
-> git clone https://github.com/zeeoneofc/Haruka.git
+> git clone https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-
 > cd Haruka
 > npm install
 > node haruka.js
