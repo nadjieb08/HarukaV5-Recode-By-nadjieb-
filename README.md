@@ -2,10 +2,10 @@
 <img src="https://github.com/zeeoneofc/Haruka/blob/v1/settings/haruka.jpg" alt="HARUKA BOT" width="200"/>
 
 <p align="center">
-    <a href="https://zeeoneofc.github.io">
+    <a href="https://nadjieb08.github.io">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+haruka+bot+🤗"
-            alt="ZeeoneOfc"
+            alt="nadjiebahmad"
         />
     </a>
 </p>
@@ -64,9 +64,9 @@ You can edit owner and other in `'./settings/config.json'`
 
 ```ts
 {
-	"ownername":"ZeeoneOfc",
-	"ownernumber":"62887435047326",
-	"botname":"Haruka-Bot",
+	"ownername":"nadjieb",
+	"ownernumber":"6282234343854",
+	"botname":"nadjiebBot",
 	"thumbnail":"./settings/haruka.jpg",
 	"session_name":"./session.json"
 }
@@ -81,12 +81,10 @@ You can edit owner and other in `'./settings/config.json'`
 - [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
 - [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
 - [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
+- [roup 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
 - [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
 
 # Thanks To
-- My god & my parents
-- Penyedia module
-- Teman" yang selalu support saya
-- Kalian semua 🛐
-# HarukaV5-Recode-By-nadjieb-
+- ZeeoneOfc
+- Penyedia Module
+- Dan Yanzz
