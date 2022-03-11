@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/zeeoneofc/Haruka/blob/v1/settings/haruka.jpg" alt="HARUKA BOT" width="200"/>
+<img src="https://github.com/zeeoneofc/Haruka/blob/v1/settings/haruka.jpg" alt="nadjiebBot" width="200"/>
 
 <p align="center">
     <a href="https://nadjieb08.github.io">
@@ -12,7 +12,7 @@
 
 </p>
 <p align="center">
-<a href="https://zeeoneofc.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://nadjieb08.github.io"><img title="Creator" src="https://img.shields.io/badge/Creator-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
