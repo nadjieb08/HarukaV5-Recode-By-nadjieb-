@@ -89,3 +89,4 @@ You can edit owner and other in `'./settings/config.json'`
 - Penyedia module
 - Teman" yang selalu support saya
 - Kalian semua 🛐
+# HarukaV5-Recode-By-nadjieb-
