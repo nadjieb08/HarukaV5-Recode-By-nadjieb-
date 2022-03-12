@@ -1,7 +1,7 @@
 {
-  "name": "Haruka-Bot",
-  "description": "WhatsApp Bot Using WhatsApp Api Library Created By ZeeoneOfc",
-  "repository": "https://github.com/zeeone-ofc/Haruka",
-  "logo": "https://github.com/zeeone-ofc/Haruka/blob/v5/settings/haruka.jpg",
+  "name": "nadjiebBot",
+  "description": "WhatsApp Bot Using WhatsApp Api Library Created By ZeeoneOfc and Recode By nadjieb",
+  "repository": "https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-",
+  "logo": "https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-/blob/v5/settings/haruka.jpg",
   "keywords": ["Haruka", "Bot WhatsApp","Heroku bot"]
 }
