@@ -55,8 +55,8 @@ Click the deploy icon below !
 > pkg install libweb nodejs git ffmpeg
 > git clone https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-
 > cd Haruka
-> npm install
-> node haruka.js
+> node nadjieb.js
+# Kenapa ga ada npm install ? Karna ada module
 ```
 
 ## settings
