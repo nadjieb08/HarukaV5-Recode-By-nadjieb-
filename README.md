@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/zeeoneofc/Haruka/blob/v1/settings/haruka.jpg" alt="nadjiebBot" width="200"/>
+<img src="https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-/blob/main/settings/Haruka.jpg" alt="nadjiebBot" width="200"/>
 
 <p align="center">
     <a href="https://nadjieb08.github.io">
