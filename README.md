@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://nadjieb08.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+haruka+bot+🤗"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+Jibb+bot+🤗"
             alt="nadjiebahmad"
         />
     </a>
