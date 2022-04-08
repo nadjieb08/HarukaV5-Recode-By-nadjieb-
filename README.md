@@ -15,22 +15,22 @@
 <a href="nadjieb08"><img title="Creator" src="https://img.shields.io/badge/Creator-nadjieb08-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/Haruka/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Haruka?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/Haruka/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Haruka?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/Haruka/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/Haruka?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/Haruka"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeoneofc/Haruka/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Haruka?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofc%2FHaruka&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeoneofc/Haruka/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/nadjieb08/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
+<a href="https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Haruka?color=blue&style=flat-square"></a>
+<a href="https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Haruka?color=red&style=flat-square"></a>
+<a href="https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/Haruka?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofc/Haruka?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnadjieb08%2FnHarukaV5-Recode-By-nadjieb-&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeoneofc/Haruka#instalasi">Installation</a> •
-  <a href="https://github.com/zeeoneofc/Haruka#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeoneofc/Haruka#donate">Donate</a></br>
-  <a href="https://github.com/zeeoneofc/Haruka#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeoneofc/Haruka#settings">Settings</a>
+  <a href="https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-#instalasi">Installation</a> •
+  <a href="https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-#thanks-to">Thanks to</a> •
+  <a href="https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-#donate">Donate</a></br>
+  <a href="https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-#settings">Settings</a>
 
 </p>
 </div>
@@ -54,7 +54,7 @@ Click the deploy icon below !
 > apt update && apt upgrade
 > pkg install libweb nodejs git ffmpeg
 > git clone https://github.com/nadjieb08/HarukaV5-Recode-By-nadjieb-
-> cd Haruka
+> cd HarukaV5-Recode-By-nadjieb-
 > node nadjieb.js
 # Kenapa ga ada npm install ? Karna ada module
 ```
@@ -72,10 +72,9 @@ You can edit owner and other in `'./settings/config.json'`
 }
 ```
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
+- [Saweria](https://saweria.co/nadjiebahmad)
 - [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
-- [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
+- [Gopay](https://telegra.ph/file/6f051f3d25f7ea5beaba3.jpg)
 
 # Official Group
 - [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
